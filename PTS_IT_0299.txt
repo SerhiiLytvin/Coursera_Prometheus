@@ -20,3 +20,9 @@ https://drive.google.com/file/d/1F_1ysD7xPD5PNpb8xBQeIHDBtXV2SXTG/view?usp=drive
 
 Notion
 https://gregarious-reaper-508.notion.site/23-24-IT-9a1218056d5243e489c9802381f18f2e
+
+===========================================================================
+1)
+На міт було питання як  поекспериментувати чи зібрати комп'ютерну мережу. 
+Для цьго є  Cisco Packet Tracer.  (дуже цікава штука)  
+https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US
