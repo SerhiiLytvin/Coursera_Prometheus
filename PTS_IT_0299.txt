@@ -48,3 +48,6 @@ https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-U
 
 - О, цікава штука.. Бо я встановила Oracle VM VirtualBox щоб вправлятися у Лінуксі(а може й імітацію Мак можна буде зробити), але ноутбук іноді підвисає коли запускаю ))
 Треба розібратися з тим Кілеркода. Дякую за посилання й шпаргалки :))
+
+3) Install chocolatey on windows 11 updated
+	https://www.youtube.com/watch?v=8N9n7WgIcgo
