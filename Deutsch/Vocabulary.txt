@@ -80,6 +80,161 @@ die Sprachschule, die Sprachschulen		language school
 der Stift, die Stifte				pen
 (etwas) unterrichten )unterrichtet, unterrichtete, hat unterrichtet)  to teach; to instruct
 Wie heißt das auf Deutsch?			What does that mean in German?
+die Bestellung, die Bestellungen		order
+der Deutschunterricht				German class
+der Dialog, die Dialoge				dialogue; conversation
+die Hausaufgabe, die Hausaufgaben		homework
+(etwas) hören (hört, hörte, hat gehört)		to listen to; to hear
+das Jahr, die Jahre				year
+der Kursteilnehmer, die Kursteilnehmer		course participant (male)
+die Kursteilnehmerin, die Kursteilnehmerinnen	course participant (female)
+(etwas) lernen (lernt, lernte, hat gelernt)	to learn (something)
+(etwas) lesen (liest, las, hat gelesen)		to read (something)
+der Nachmittag, die Nachmittage			afternoon
+die Nachricht, die Nachrichten			message
+der Ordner, die Ordner				binder; folder
+die Pause, die Pausen				break
+richtig						correct; right
+der Satz, die Sätze				sentence
+(etwas) schreiben 				to write (something)
+(schreibt, schrieb, hat geschrieben)	
+die Tafel, die Tafeln				board; chalkboard
+der Text, die Texte				text
+(etwas) üben (übt, übte, hat geübt)		to practice (something)
+von						of
+etwas wiederholen (wiederholt, wiederholte,	to repeat/revise/review something
+ hat wiederholt)
+das Wort, die Wörter				word
+das Wörterbuch, die Wörterbücher		dictionary
+zum Beispiel					for example; for instance
+--------------------------------------------------------------------------
+Alles klar!					All right!/Got it!
+die Anzeige, die Anzeigen			ad; advertisement
+der Aufzug, die Aufzüge				elevator; lift
+das Auto, die Autos				car; automobile
+das Brillenetui, die Brillenetuis		glasses case
+Einen Moment bitte.				One moment, please. 
+die Garage, die Garagen				garage
+das Haus, die Häuser				house
+heute						today
+das Internet					internet
+der Mieter, die Mieter				tenant; renter (male)
+die Mieterin, die Mieterinnen			tenant; renter (female)
+die Terrasse, die Terrassen			terrace
+die WG, die WGs					shared apartment; flatshare
+die Wohngemeinschaft, die Wohngemeinschaften	shared apartment; flatshare
+die Wohnung, die Wohnungen			apartment
+der Zettel, die Zettel				piece of paper
+das Zimmer, die Zimmer				room
+----------------------------------------------------------------------------
+alt						old
+anderer, andere, anderes			other; others
+billig						cheap; inexpensive
+billiger, am billigsten	
+da sein						to be there; to be present
+ist, war, ist gewesen	
+das Fahrrad, die Fahrräder			bicycle
+der Fahrradladen, die Fahrradläden		bicycle store
+gelb						yellow
+groß						big; tall
+klein						small
+kleiner, am kleinsten	
+etwas/jemanden lieben				to love something/somebody; to like something/somebody
+liebt, liebte, hat geliebt
+neu						new
+neuer, am neusten/am neuesten	
+rot						red
+teuer						expensive
+teurer, am teuersten
+das T-Shirt, die T-Shirts			t-shirt
+weiß						white
+------------------------------------------------------------------------------
+auf dem Land					in the country
+der Balkon, die Balkons				balcony; porch
+der Bekannte, die Bekannten			acquaintance (male)
+die Bekannte, die Bekannten			acquaintance (female)
+besser						better
+frei						free; open; here: unoccupied
+der Garten, die Gärten				garden
+die Heizung, die Heizungen			heating; heater
+(jemandem) helfen 				to help someone
+(hilft, half, hat geholfen)
+das Hochhaus, die Hochhäuser			high-rise building
+etwas hoffen					to hope something
+(hofft, hoffte, hat gehofft)
+das Hostel, die Hostels				hostel
+in der Stadt					in the city
+die Jugendherberge, die Jugendherbergen		youth hostel
+kaputt						broken
+(kaputter, am kaputtesten)
+das Kind, die Kinder				child
+können						to be able to; can
+(kann, konnte)
+leben						to live; to be alive
+(lebt, lebte, hat gelebt)
+meist						most of the time; usually
+die Miete, die Mieten				rent
+der Mitbewohner, die Mitbewohner		roommate; housemate; flatmate (male)
+die Mitbewohnerin, die Mitbewohnerinnen		roommate; housemate; flatmate (female)
+die Natur					nature
+nett						nice; friendly
+(netter, am nettesten)
+oft						often
+(öfter, am öftesten)	
+schnell						fast
+(schneller, am schnellsten)
+sich etwas teilen				to share
+(teilt, teilte, hat geteilt)
+um|ziehen					o move (house, cities, etc.)
+(zieht um, zog um, ist umgezogen)
+der Umzug, die Umzüge				move; relocation
+der Urlaub, die Urlaube				vacation; holiday
+etwas/jemanden verstehen			to understand something/someone
+(versteht, verstand, hat verstanden)
+viele						many
+vielleicht					perhaps; maybe
+--------------------------------------------------------------------------------
+das Arbeitszimmer, die Arbeitszimmer		office; study
+das Bad, die Bäder				bathroom
+das Badezimmer, die Badezimmer			bathroom
+dunkel						dark
+(dunkler, am dunkelsten)
+Es gibt …					there are (literally: it gives, it exists)
+das Fenster, die Fenster			window
+der Flur, die Flure				hallway
+Freut mich					Pleased to meet you
+gemütlich					cozy; comfortable
+(gemütlicher, am gemütlichsten)
+hell						light; bright
+(heller, am hellsten)
+hoch						expensive
+(höher, am höchsten)
+der Interessent, die Interessenten		interested person; interested party; prospects (here: implies "potential" or "prospective") (male)
+die Interessentin, die Interessentinnen		interested person; interested party; prospects (here: implies "potential" or "prospective") (female)
+der Keller, die Keller				cellar; basement
+die Küche, die Küchen				kitchen
+kurz						short
+(kürzer, am kürzesten)
+lang						long
+(länger, am längsten)
+laut						loud/loudly
+(lauter, am lautesten)
+der Monat, die Monate				month
+die Pommes frites (Plural)			French fries
+der Quadratmeter, die Quadratmeter		square meter
+ruhig						quiet; calm
+(ruhiger, am ruhigsten)
+das Schlafzimmer, die Schlafzimmer		bedroom
+etwas/jemanden sehen				to see something/somebody
+(sieht, sah, hat gesehen)
+sitzen						to sit
+(sitzt, saß, hat gesessen)
+die Toilette, die Toiletten			toilet
+ungemütlich					uncomfortable; unpleasant; awkward
+(ungemütlicher, am ungemütlichsten)
+das Wohnzimmer, die Wohnzimmer			living room
+
+
 
 
 

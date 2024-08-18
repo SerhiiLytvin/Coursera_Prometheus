@@ -209,6 +209,7 @@ westlich [ˈvεstlɪç] в за́падном направле́нии, запа
 südwestlich [zyːtˈvεstlɪç] ю́го-за́падный, на ю́го-за́пад
 nördlich [ˈnœrtlɪç] се́верный, севернее
 Muttersprache [ˈmʊtɐʃpraːxə] f (~, ~n) родно́й язы́к
+-----------------------------------------------------------
 die Brille очки
 der Stift карандаш
 der Unterricht загятия, урок
@@ -220,6 +221,7 @@ warten ждать
 holen сходить за кем.л., позвать кого то
 echt настоящий, действительно
 nach dem Unterricht после урока
+--------------------------------------------------------
 der Schlüssel ключ
 die Tafel доска
 das это
@@ -227,6 +229,11 @@ wiederholen повторить
 gehören принадлежать
 immer все время, постоянно, всегда
 Post-its стикеры
+Wörterbuch [ˈvœrtɐbuːx] n (~(e)s, -ü-er) слова́рь
+Teilnehmer [ˈtailneːmɐ] m (~s, ~) уча́стник, уча́ствующий, посети́тель
+eilnehmen [ˈtailneːmən] (nimmt teil, a, o) уча́ствовать в чём, прису́тствовать где, приня́ть уча́стие, принима́ть уча́стие в чём
+Ordner [ˈɔrdnɐ] m (~s, ~) па́пка (фа́йлов), сотру́дник охра́ны
+Flughafen [ˈfluːkhaːfn] m (~s, -ä-) аэропо́рт, аэродро́м (площа́дка)
 die Anzeige объявление
 wir suchen immer noch? Мы все еще ищем
 der Aufzug лифт
@@ -240,12 +247,19 @@ halb половина, наполовину
 der Bewernber претендент, кандидат
 der Mieter жилец, сьемщик, арендатор
 die Tür дверь
+Brillenetui [ˈbrɪlənεtviː] n (~s, ~s) футля́р для очко́в
+Radiergummi [raˈdiːɐgʊmɪ] m (~s, ~s) рези́нка (для стира́ния)
+Zettel [ˈtsεtl] m (~s, ~) ярлы́к, этике́тка, ли́стик, квита́нция, ка́ссовый/това́рный чек, тало́н (из ка́ссы)
+Mitbewohner [ˈmɪtbəvoːnɐ] m (~s, ~) сосе́д по до́му, сосе́д по ко́мнате, сожи́тель, сожи́тельница
+Anzeige [ˈantsaigə] f (~, ~n) объявле́ние
+---------------------------------------------------------------
 Ich sehe was, was du nicht siehst Я вижу то, чего ты не видишь
 dran следующий
 glauben полагать, верить
-Ich glaube nicht Так ге бывает
+Ich glaube nicht Так не бывает
 das ist nicht da этого тут нет
 Es gibt hier wirklich keinen Fahrradladen Здесь, правда, нет веломагазина
+------------------------------------------------------------
 nur только
 nur noch только
 umziehen переехать
@@ -258,6 +272,16 @@ jung молодой
 übernachten переночевать
 Übernachten ночлег, ночёвка
 der Bekannte знакомый
+sich teilen (teilt, teilte, hat geteilt) делить
+der Mitbewohner, die Mitbewohner  сосе́д по до́му, сосе́д по ко́мнате, сожи́тель, сожи́тельница
+die Miete, die Mieten 	аренда, арендная плата
+meist [maist] в большинстве́ слу́чаев, бо́льшей ча́стью
+Natur [naˈtuːɐ] f (~, ~en) приро́да
+Umzug [ˈʊmtsuːk] m (~(e)s, -ü-e) переселе́ние (семьи́), перемеще́ние (отделе́ния)
+betreffen [bəˈtrεfn] v (betrifft, a, o) каса́ться кого/чего, относи́ться к чему
+Handwerker [ˈhantvεrkɐ] m (~s, ~) реме́сленник
+
+-------------------------------------------------------------------
 Du willst dir das Zimmer anschauen?
 Ты хочешь посмотреть комнату?
 Schon okay И так пойдет
@@ -267,12 +291,15 @@ dann komm mal mit тогда пойдем
 bald скоро
 frei свободный
 ruhid спокойный
+gemütlich [gəˈmyːtlɪç] ую́тный, уютно
 sitzen сидеть , заседать
+zwar [tsvaːɐ] хотя́
 die Miete плата, за наем, квартплата, арендная плата, аренда
 nebenkosten накладные/доп.расходы
 die Ausgabe расходы, затраты
 der Interessent желающий, заинтересованный
 wir rufen dich an Мы тебе позвоним
+-----------------------------------------------------------------
 na ну, ну что же
 das Mädel (s) девушка
 nur только
