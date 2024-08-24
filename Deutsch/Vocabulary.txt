@@ -1,4 +1,4 @@
-die Antwort, die Antworten	answer
+die Antwort, die Antworten				answer
 jemanden begrüßen (begrüßt, begrüßte, hat begrüßt)	to greet someone
 die Begrüßung, die Begrüßungen	greeting
 etwas besichtigen (besichtigt, besichtigte, hat besichtigt)	to visit something
@@ -233,6 +233,155 @@ die Toilette, die Toiletten			toilet
 ungemütlich					uncomfortable; unpleasant; awkward
 (ungemütlicher, am ungemütlichsten)
 das Wohnzimmer, die Wohnzimmer			living room
+-----------------------------------------------------------------------------------
+arbeiten					to work
+(arbeitet, arbeitete, hat gearbeitet)
+bequem						comfortable
+bequemer, am bequemsten
+das Bett, die Betten				bed
+das Bild, die Bilder				picture
+das Bücherregal, die Bücherregale		bookcase; bookshelf
+der Bürostuhl, die Bürostühle			office chair
+die Couch, die Couches				couch
+der Fernseher, die Fernseher			television
+finden						to find
+(findet, fand, hat gefunden)
+die Gardine, die Gardinen			curtain; drapes
+der Herd, die Herde				stove
+das Kissen, die Kissen				cushion; pillow
+der Kleiderschrank, die Kleiderschränke		closet; wardrobe
+der Kühlschrank, die Kühlschränke		refrigerator; fridge; ice box
+die Lampe, die Lampen				lamp
+das Möbel, die Möbel				furniture
+der Nachttisch, die Nachttische			bedside table; nightstand
+das Regal, die Regale				(book) shelf; storage rack
+der Schrank, die Schränke			cabinet; wardrobe
+der Schreibtisch, die Schreibtische		desk
+der Schreibtischstuhl, die Schreibtischstühle	desk chair
+der Sessel, die Sessel				armchair; easy chair
+das Sofa, die Sofas				sofa; couch
+der Spiegel, die Spiegel			mirror
+spießig						bourgeois; square
+(spießiger, am spießigsten)
+die Spüle, die Spülen				kitchen sink
+stehen						to stand; to be
+(steht, stand, hat gestanden)
+die Stehlampe, die Stehlampen			floor lamp
+der Stuhl, die Stühle				chair
+der Teppich, die Teppiche			carpet
+der Tisch, die Tische				table
+unbequem					uncomfortable
+(unbequemer, am unbequemsten)
+die Waschmaschine, die Waschmaschinen		washer
+zu						too
+-----------------------------------------------------------------------------
+alle						all
+die Armbanduhr, die Armbanduhren		wristwatch
+bald						soon
+daneben						next to it/that
+dein(e)						your
+doch						On the contrary!
+dreckig						dirty
+(dreckiger, am dreckigsten)
+(sich) duschen					to shower; to take a shower
+duscht, duschte, hat geduscht
+euer/eure					your/yours
+der Föhn, die Föhne				hair dryer
+das Handtuch, die Handtücher			hand towel
+ihr(e)						her
+ihr(e)						their
+Ihr(e) (formell, Singular und Plural)		your (formal)
+immer						always
+das Kinderzimmer, die Kinderzimmer		child's room
+Komm rein!					come in
+Kommt drauf an.					That depends.
+mein(e)						my
+Möchtest du etwas trinken?			Would you like something to drink? (informal)
+der Nachbar, die Nachbarn			neighbor (male)
+die Nachbarin, die Nachbarinnen			neighbor (female)
+(etwas) putzen					to clean (something)
+(putzt, putzte, hat geputzt)
+sauber						clean
+(sauberer, am saubersten)
+schlafen					to sleep
+(schläft, schlief, hat geschlafen)
+sein(e)						his/its
+die Uhr, die Uhren				clock
+unser(e)					our
+die Unterhose, die Unterhosen			underwear; underpants
+warm						warm
+(wärmer, am wärmsten)
+---------------------------------------------------------------------------
+der Arzt, die Ärzte				doctor (male)
+die Ärztin, die Ärztinnen			doctor (female)
+der Babysitter, die Babysitter			babysitter (male)
+die Babysitterin, die Babysitterinnen		babysitter (female)
+beginnen					to begin; to start
+(beginnt, begann, hat begonnen)
+bis						until
+Das geht nicht					That won't/doesn't work
+halb						half
+krank						sick; ill
+(kränker, am kränksten)
+die Lösung, die Lösungen			solution
+die Mittagspause, die Mittagspausen		lunch break
+morgen						tomorrow
+die Schule, die Schulen				school
+der Tag, die Tage				day
+der Termin, die Termine				appointment
+das Training, die Trainings			training; workout; (sports) practice
+Tut mir leid.					I'm sorry.
+um						at; around
+die Uni, die Unis				university; college
+das Volleyballtraining, die Volleyballtrainings	volleyball practice
+von						from
+wann						when
+Wie spät ist es?				How late is it?/What time is it?
+Wie viel Uhr ist es?				What time is it?
+--------------------------------------------------------------------------------
+der Abend, die Abende				evening
+das Abendessen, die Abendessen			dinner
+am Morgen					in the morning
+jemanden an|rufen				to call someone
+(ruft an, rief an, hat angerufen)
+etwas auf|räumen				to clean up something; to tidy up something
+(räumt auf, räumte auf, hat aufgeräumt)
+auf|stehen					to get up
+(steht auf, stand auf, ist aufgestanden)
+aus|gehen					to go out
+(geht aus, ging aus, ist ausgegangen)
+etwas ein|kaufen				to buy/shop for something
+kauft ein, kaufte ein, hat eingekauft
+fast immer					almost always
+fern|sehen					to watch television
+sieht fern, sah fern, hat ferngesehen
+die Flöte, die Flöten				flute
+das Frühstück, die Frühstücke			breakfast
+frühstücken					to eat breakfast
+(frühstückt, frühstückte, hat gefrühstückt)
+das Gemüse					vegetables
+manchmal					sometimes
+meistens					most of the time
+der Mittag, die Mittage				noon; midday
+das Mittagessen, die Mittagessen		lunch
+der Morgen, die Morgen				morning
+das Müsli, die Müslis				granola
+der Nachmittag, die Nachmittage			afternoon
+die Nacht, die Nächte				night
+nie						never
+normalerweise					normally
+oft						often
+(öfter, am öftesten)
+selten						seldom
+(seltener, am seltensten)
+der Vormittag, die Vormittage			morning; before noon
+wichtig						important
+(wichtiger, am wichtigsten)
+wissen						to know
+(weiß, wusste, hat gewusst)
+Zähne putzen					to brush one's teeth
+(putzt, putzte, hat geputzt)
+
 
 
 

@@ -314,6 +314,18 @@ chillen расслабиться
 melden доложить (кому / что)
 dir тебе
 wir melden uns bei dir мы свяжемся с вами
+bequem [bəˈkveːm] удо́бный (кресло́ и т. п.); удо́бно (усе́сться и т. п.)
+Bücherregal [ˈbyːçɐregaːl] n (~s, ~e) кни́жная по́лка, книжный стеллаж
+Esstisch [ˈεstɪʃ] m (~(e)s, ~e) обе́денный стол
+Spüle [ˈʃpyːlə] f (~, ~n) мо́йка
+Kleiderschrank [ˈklaidɐʃraŋk] m (~(e)s, -ä-e) (платяно́й) шкаф
+Stehlampe [ˈʃteːlampə] f (~, ~n) торше́р, напо́льный свети́льник
+Platz [plats] m ме́сто (простра́нство)
+Besichtigung [bəˈzɪçtɪgʊŋ] f (~, ~en) осмо́тр, просмо́тр
+spießig обывательский, мещанский
+deswegen [ˈdεsˈveːgn] потому́, поэ́тому
+
+------------------------------------------------------------------
 gesucht искомый
 duschen принимать душ
 sauber чистый, чисто
@@ -321,11 +333,19 @@ putzen вычистить
 dreckig грязный
 kommt drauf an все зависит от
 der Nachbar сосед
+doch	наоборот
 laut громкий, шумный, громко, вслух
 nett любезный, милый
 Was für eine Katastrophe Какой кошмар
 nie никогда
 der Mieter(-s) арендатор
+Armbanduhr [ˈarmbantuːɐ] f (~, ~en) нару́чные часы́
+Unterhose [ˈʊntɐhoːzə] f (~, ~n) трусы́
+Föhn [føːn] m (~(e)s, ~e) фен
+Handtuch [ˈhanttuːx] n (~(e)s, -ü-er) полоте́нце
+Komm rein входи, заходи
+daneben [daˈneːbn] я́дом, о́коло (о́чень бли́зко), во́зле
+----------------------------------------------------------------
 krank больной, нездоровый
 Unterricht занятия, уроки
 doch ведь , все же
@@ -333,6 +353,7 @@ Das geht nicht. Не получится
 das Mittagessen (-s) обед
 ganz целый
 die Lösung (-, -en) разрешение(задачи)
+absagen [ˈapzaːgn] отмени́ть, снять
 Wie bitter? Что, простите?
 passen сидеть
 aufpassen смотреть, присмотреть, быть внимательным
@@ -353,6 +374,10 @@ kontrollieren проверять
 wissen знать
 gegen около
 wierder опять, снова
+selten [ˈzεltn] и́зредка, ре́дко
+nie [niː] никогда́
+meistens [ˈmaistns] в большинстве́ слу́чаев, бо́льшей ча́стью, как пра́вило, обыкнове́нно, обы́чно
+-------------------------------------------------------------------------------------------
 Wie war dein Tag ? Как прошел твой день?
 euer, eure ваш, ваша, ваше
 Ferien каникулы
@@ -362,6 +387,13 @@ spät поздно
 fertig готовый, законченый
 gleich сейчас же, немедленно
 lang долго, долгий
+bereiten [bəˈraitn] пригото́вить что для кого
+Schüler [ˈʃyːlɐ] m (~s, ~) учени́к, шко́льник
+aufhören [ˈaufhøːrən] зако́нчить что, прекрати́ть, ко́нчиться
+vorbereiten [ˈfoːɐbəraitn] пригото́вить что для кого
+sich vorbereiten auf etw. Akk пригото́виться, подгото́виться к чему
+vorlesen [ˈfoːɐleːzn] зачи́тывать что кому
+
 aufwachen просыпаться, проснуться
 frühstücken завтракать
 die Lust желание, охота
