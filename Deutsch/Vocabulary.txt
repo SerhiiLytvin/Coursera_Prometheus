@@ -381,8 +381,39 @@ wissen						to know
 (weiß, wusste, hat gewusst)
 Zähne putzen					to brush one's teeth
 (putzt, putzte, hat geputzt)
-
-
+----------------------------------------------------------------------------
+an|fangen					to start
+fängt an, fing an, hat angefangen
+auf|hören					to finish; to stop
+hört auf, hörte auf, hat aufgehört
+fertig						finished
+(der) Fußball					soccer
+gestern						yesterday
+glauben						to believe; to think
+glaubt, glaubte, hat geglaubt	
+kochen						to cook
+kocht, kochte, hat gekocht
+etwas korrigieren				to correct something
+korrigiert, korrigierte, hat korrigiert
+lange						long; for a long time
+(mit jemandem) mit|kommen			to come along with someone
+kommt mit, kam mit, ist mitgekommen
+etwas mit|schreiben				to take notes
+schreibt mit, schrieb mit, hat mitgeschrieben
+der Schüler, die Schüler			student; pupil (male)
+die Schülerin, die Schülerinnen			student; pupil (female)
+spät						late
+später, am spätesten
+die Übung, die Übungen				exercise
+der Unterricht					lesson
+etwas vor|bereiten				to prepare something
+bereitet vor, bereitete vor, hat vorbereitet
+jemandem etwas vor|lesen			to read something to somebody
+liest vor, las vor, hat vorgelesen
+(etwas) waschen					to wash (something)
+wäscht, wusch, hat gewaschen
+die Zeit					time
+				
 
 
 
