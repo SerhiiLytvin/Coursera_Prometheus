@@ -413,7 +413,80 @@ liest vor, las vor, hat vorgelesen
 (etwas) waschen					to wash (something)
 wäscht, wusch, hat gewaschen
 die Zeit					time
-				
+-------------------------------------------------------------------------
+am Wochenende					on the weekend
+aus|schlafen					to sleep in
+schläft aus, schlief aus, hat ausgeschlafen
+jemanden/etwas besuchen				to visit someone/something
+besucht, besuchte, hat besucht	
+danach						after that
+dann						then
+(etwas) denken					to think
+denkt, dachte, hat gedacht	
+draußen						outside
+drinnen						inside
+das Eis						ice cream
+Fahrrad fahren					to ride a bike
+fährt, fuhr, ist gefahren
+der Film, die Filme				movie; film
+früh						early
+früher, am frühesten/frühsten	
+Frühstück machen				to make breakfast
+macht, machte, hat gemacht	
+gehen						to go; to walk
+geht, ging, ist gegangen
+ins Bett gehen					to go to bed
+geht, ging, ist gegangen
+ins Kino gehen					to go to the movies
+geht, ging, ist gegangen	
+ins Theater gehen				to go to the theater
+geht, ging, ist gegangen
+Mir ist schlecht.				I don't feel well.
+nach draußen gehen				to go outside
+geht, ging, ist gegangen
+nach Hause gehen				to go home
+geht, ging, ist gegangen
+raus|gehen					to go out
+geht raus, ging raus, ist rausgegangen
+die Schokoladencreme, die Schokoladencremes	chocolate spread
+schwimmen					to swim
+schwimmt, schwamm, ist geschwommen
+das Tennis					tennis
+das Wochenende, die Wochenenden			weekend
+Zeit haben					to have time
+hat, hatte, hat gehabt	
+zuerst						first
+----------------------------------------------------------------------------------
+ab						from
+ab wann						from when (on)
+allein						alone
+am						on
+die Dreiviertelstunde, die Dreiviertelstunden	three-quarters of an hour; 45 minutes
+der Fisch, die Fische				fish
+geöffnet haben					to be open (as in: a store, business, etc.)
+hat, hatte, hat gehabt
+geschlossen haben				to be closed 
+hat, hatte, hat gehabt
+halbe Stunde					half an hour
+kurz nach					shortly after
+kurz vor					shortly before
+leider						unfortunately
+die Minute, die Minuten				minute
+das Mittagsangebot, die Mittagsangebote		lunch dish; lunch menu
+nach						after
+die Öffnungszeit, die Öffnungszeiten		opening hours; business hours
+die Roulade, die Rouladen			roulade; braised meat rolls
+die Stunde, die Stunden				hour
+die Suppe, die Suppen				soup
+die Viertelstunde, die Viertelstunden		quarter of an hour
+Viertel nach					quarter past
+Viertel vor					quarter to
+vor						before
+(auf jemanden/etwas) warten			to wait (for so./sth.)
+wartet, wartete, hat gewartet
+der Zug, die Züge				train
+-----------------------------------------------------------------------------
+
 
 
 
