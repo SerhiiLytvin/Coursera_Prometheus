@@ -438,7 +438,7 @@ früher раньше
 übermorgen послезавтра
 witzig остроумно, прикольный
 denken dran запомнить
-das Dienst служба, дежурство
+das Dienst смена, дежурство
 das Frühdienst ранняя смена
 morgens утром, каждое утро
 schließen закрывать, запирать
@@ -448,6 +448,9 @@ freuen радовать
 sich freuen радоваться
 freuen auf радоваться
 Wir freuen uns auf Sie Мы с нетерпением ждем встречи с вами
+vorgestern [ˈfoːɐgεstɐn] позавчера́
+
+------------------------------------------------------------------------
 das Mittagsmenü меню на обед
 apropos кстати, между прочим
 treffen встретить (кого то)
