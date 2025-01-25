@@ -4,7 +4,7 @@ Nicos weg A2
 Geschichte [gəˈʃɪçtə] f (~, ~n) 	исто́рия
 Ganze [ˈgantsə] n (~n) 			це́лое
 Anfang [ˈanfaŋ] m (~(e)s, -ä-e) 	нача́ло
-aufpassen [ˈaufpasn] 			быть внима́тельным, внима́тельно слу́шать; смотре́ть, смотре́ть
+aufpassen [ˈaufpasn] 			быть внима́тельным, внима́тельно слу́шать; смотре́ть
 Heimweh [ˈhaimveː] n (~s) 		тоска́ по дому́
 vermissen [fεɐˈmɪsn] 			недостава́ть кому чего (нужда́ться)
 Heimatland [ˈhaimaːtlant] n (~(e)s, -ä-er) ро́дина
@@ -13,15 +13,16 @@ zwar [tsvaːɐ] 				хотя́
 hierher [ˈhiːɐheːɐ] 			сюда́
 fremd [frεmt] 				чужо́й
 froh [froː] 				ра́достный, отра́дный, рад
-verlassen1 [fεɐˈlasn] 			поки́нуть, бро́сить кого/что
+verlassen [fεɐˈlasn] 			поки́нуть, бро́сить кого/что
 leicht [laiçt] 				легко, лёгкий
-zurückgehen* [tsuˈrʏkgeːən] 		возвраща́ться
+zurückgehen [tsuˈrʏkgeːən] 		возвраща́ться
 Anruf [ˈanruːf] m (~(e)s, ~e) 		звоно́к, телефо́нный разгово́р
-bekommen* [bəˈkɔmən] 			получи́ть 
+bekommen [bəˈkɔmən] 			получи́ть 
 sterben [ˈʃtεrbn] 			умере́ть от чего, поги́бнуть
 schlimm [ʃlɪm] 				серьёзный (тру́дности, обвине́ние и т. п.)
 fliegen [ˈfliːgn] 			лета́ть, лете́ть; вы́лететь
 eigentlich [ˈaigntlɪç] 			со́бственно
+weiter [ˈvaitɐ]				да́льше (чита́ть. учиться и т. п.)
 daran [daˈran] 				на том
 eben [ˈeːbn] 				про́сто, одни́м сло́вом
 verdienen [fεɐˈdiːnən] 			зарабо́тать (пла́ту), зараба́тывать
@@ -30,7 +31,7 @@ reicht 					достаточно
 weggehen [ˈvεkgeːən] (ging weg, i. weggegangen) уйти́
 Neuanfang 				новое начало
 Deutschkenntnisse 			знание немецкого языка
-schaffen2 [ˈʃafn] 			суме́ть что, спра́виться
+schaffen [ˈʃafn] 			суме́ть что, спра́виться
 üben [ˈyːbn] 				упражня́ться
 sich kümmern [ˈkʏmɐn] 			занима́ться кем/чем
 um [ʊm] 				вокру́г, круго́м чего
