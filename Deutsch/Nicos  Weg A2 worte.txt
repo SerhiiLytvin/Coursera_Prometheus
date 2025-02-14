@@ -129,39 +129,40 @@ weil [vail] так как, поско́льку
 einsam [ˈainzaːm] одино́кий
 der Quatsch [kvatʃ] m (~(e)s) чушь, чепуха́, глу́пости
 bestimmt [bəˈʃtɪmt] несомне́нно, безусло́вно
-Ernst [εrnst] m (~es) серьёзность
+der Ernst [εrnst] m (~es) серьёзность
 ist das dein Ernst? Ты серьёзно (говори́шь)?
 Na das! Ну, это!
 Chaos [ˈkaːɔs] n (~) ха́ос
+saugen  [ˈzaugn] пылесосить
 davon [daˈfɔn ˈdaːfɔn]	из этого, вышеприведённого
 rausbringen [ˈrausbrɪŋən] вынести
 den Müll rausbringen вы́нести му́сор
 Pfandflasche [ˈpfantflaʃə] f (~, ~n) оборо́тная буты́лка
-wegbringen* [ˈvεkbrɪŋən] v (brachte weg, h. weggebracht) отнести́ что
+wegbringen [ˈvεkbrɪŋən] v (brachte weg, h. weggebracht) отнести́ что, сдать
 Kein Ding ничего
-Ding [dɪŋ] n (~(e)s, ~e/~er) вещь
+das Ding [dɪŋ] n (~(e)s, ~e/~er) вещь
 schaffen [ˈʃafn] суме́ть что, спра́виться
-einziehen* [ˈaintsiːən] посели́ться где, пересели́ться, перее́хать (в го́род и т. п.), всели́ться куда
-Mülltonne [ˈmʏltɔnə] f (~, ~n) му́сорный бак
-Nachbar [ˈnaxbaːɐ] m (~n, ~n) сосе́д
+einziehen [ˈaintsiːən] посели́ться где, пересели́ться, перее́хать (в го́род и т. п.), всели́ться куда
+die Mülltonne [ˈmʏltɔnə] f (~, ~n) му́сорный бак
+der Nachbar [ˈnaxbaːɐ] m (~n, ~n) сосе́д
 stellen [ˈʃtεlən] поставить
-Vermieter [fεɐˈmiːtɐ] m (~s, ~) арендодатель
-Rücksicht [ˈrʏksɪçt] f (~, ~en) внима́ние, auf j-n внима́тельность к кому
-Rücksicht nehmen auf etw. Akk смотре́ть на что, учи́тывать, принима́ть во внима́ние
+der Vermieter [fεɐˈmiːtɐ] m (~s, ~) арендодатель
+die Rücksicht [ˈrʏksɪçt] f (~, ~en) внима́ние, auf j-n внима́тельность к кому
+Rücksicht nehmen auf etw. смотре́ть на что, учи́тывать, принима́ть во внима́ние
 schlimm [ʃlɪm] серьёзный 
 aufregen [ˈaufreːgn] j-n взволнова́ть (встрево́жить)
 um [ʊm] на что
-Sinn [zɪn] смысл
-Streit [ʃtrait] m (~(e)s, ~e) ссо́ра, спор
+der Sinn [zɪn] смысл
+der Streit [ʃtrait] m (~(e)s, ~e) ссо́ра, спор
 unter [ˈʊntɐ] среди
 unhöflich [ˈʊnhøːflɪç] неве́жливый, неприли́чный; неве́жливо
 andermal [ˈandɐmaːl] в друго́е вре́мя
-beschweren [bəˈʃveːrən] угнета́ть, тяготи́ть кого
+beschweren [bəˈʃveːrən] угнета́ть, тяготи́ть кого, жаловаться
 sich beschweren bei j-m über etw. Akk жа́ловаться кому на что
 werden [ˈveːɐdn] стать, станови́ться
 riechen [ˈriːçn] па́хнуть 
 vorher [foːɐˈheːɐ] ра́ньше, зара́нее, заблаговре́менно, вперёд, ава́нсом 
-vorhin vorhin
+vorhin совсем недавно, несколько минут назад, только что
 überreagieren [ˈyːbɐreagiːrən] реаги́ровать неадеква́тно на что
 schwanger [ˈʃvaŋɐ] бере́менная
 bekommen [bəˈkɔmən] получи́ть (пода́рок и т. п.)

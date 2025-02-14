@@ -1,495 +1,148 @@
-die Antwort, die Antworten				answer
-jemanden begrüßen (begrüßt, begrüßte, hat begrüßt)	to greet someone
-die Begrüßung, die Begrüßungen	greeting
-etwas besichtigen (besichtigt, besichtigte, hat besichtigt)	to visit something
-der Dom, die Dome	cathedral
-dort	there
-die Eltern (Plural)	parents
-fahren (fährt, fuhr, ist gefahren)	to drive; to travel with a vehicle
-die Frage, die Fragen	question
-gestern		yesterday
-im Moment	at the moment
-jemanden/etwas kennen (kennt, kannte, hat gekannt)	to know someone
-letztes Jahr	last year
-nach	to; towards
-noch nie	never (i.e., never tried something, never been somewhere)
-die Oper, die Opern	opera
-(das) Österreich nur Singular, selten mit Artikel	Austria
-das Schloss, die Schlösser	castle
-schon mal	before; already
-die Schweiz	Switzerland	
-die Sehenswürdigkeit, die Sehenswürdigkeiten	place of interest; tourist attraction
-das Spiel, die Spiele	game
-(etwas) spielen (spielt, spielte, hat gespielt)		to play (something)
-die Stadt, die Städte	city; town
-toll (toller, am tollsten)	great, wonderful
-das Tor, die Tore	gate
-die Verabschiedung, die Verabschiedungen	farewell
-Was ist das?	What is that?
-welche		which
-wohin	where; to where; where to
-(das) Europa	Europe
-(etwas) gewinnen (gewinnt, gewann, hat gewonnen)	to win (something)
-die Hauptstadt, die Hauptstädte		capital city
-in der Mitte (von)	in the middle (of)
-in der Nähe (von)	near
-liegen (liegt, lag, hat gelegen)	here: to be located
-der Norden	north; the North
-der Osten	east; the East
-der See, die Seen	lake
-der Süden		south; the South
-(das) Syrien		Syria
-tanzen (tanzt, tanzte, hat getanzt)	to dance
-das Team, die Teams	team
-der Westen	west; the West
-Bei uns ...	among us; here at our; here in our... 
-der Hamburger, die Hamburger	hamburger (food)
-der Job, die Jobs	job
-das Lieblingsessen, die Lieblingsessen		favorite food
-man	one (impersonal pronoun)
-etwas mögen (mag, mochte, hat gemocht)		to like something
-nächstes Jahr	next year	
-(etwas) singen (singt, sang, hat gesungen)	to sing (something)
-die Spezialität, die Spezialitäten	specialty
-verschieden (verschiedener, am verschiedensten)		different
-die Aufenthaltserlaubnis, die Aufenthaltserlaubnisse	residence permit
-bleiben (bleibt, blieb, ist geblieben)		to stay
-ein bisschen	a little
-der Flüchtling, die Flüchtlinge		refugee
-die Fremdsprache, die Fremdsprachen	foreign language
-die Muttersprache, die Muttersprachen	native language; mother tongue
-nördlich (nördlicher, am nördlichsten)		north; northwards; to the north of
-östlich (östlicher, am östlichsten)		east; eastwards; to the east of
-schlecht (schlechter, am schlechtesten)		badly; bad
-schnell (schneller, am schnellsten)		fast
-die Sprache, die Sprachen		language
-sprechen (spricht, sprach, hat gesprochen)	to speak
-südlich (südlicher, am südlichsten)		south; southwards; to the south of
-westlich (westlicher, am westlichsten)		west; westwards; to the west of
-der Bleistift, die Bleistifte			pencil
-die Brille, die Brillen				eyeglasses
-das Buch, die Bücher				book
-der Deutschkurs, die Deutschkurse		German course
-der Lehrer, die Lehrer				teacher (male)
-die Lehrerin, die Lehrerinnen			teacher (female)
-der Notizblock, die Notizblöcke			notebook
-das Papier					paper
-der Radiergummi, die Radiergummis		eraser
-der Schlüssel, die Schlüssel			key
-die Sprachschule, die Sprachschulen		language school
-der Stift, die Stifte				pen
-(etwas) unterrichten )unterrichtet, unterrichtete, hat unterrichtet)  to teach; to instruct
-Wie heißt das auf Deutsch?			What does that mean in German?
-die Bestellung, die Bestellungen		order
-der Deutschunterricht				German class
-der Dialog, die Dialoge				dialogue; conversation
-die Hausaufgabe, die Hausaufgaben		homework
-(etwas) hören (hört, hörte, hat gehört)		to listen to; to hear
-das Jahr, die Jahre				year
-der Kursteilnehmer, die Kursteilnehmer		course participant (male)
-die Kursteilnehmerin, die Kursteilnehmerinnen	course participant (female)
-(etwas) lernen (lernt, lernte, hat gelernt)	to learn (something)
-(etwas) lesen (liest, las, hat gelesen)		to read (something)
-der Nachmittag, die Nachmittage			afternoon
-die Nachricht, die Nachrichten			message
-der Ordner, die Ordner				binder; folder
-die Pause, die Pausen				break
-richtig						correct; right
-der Satz, die Sätze				sentence
-(etwas) schreiben 				to write (something)
-(schreibt, schrieb, hat geschrieben)	
-die Tafel, die Tafeln				board; chalkboard
-der Text, die Texte				text
-(etwas) üben (übt, übte, hat geübt)		to practice (something)
-von						of
-etwas wiederholen (wiederholt, wiederholte,	to repeat/revise/review something
- hat wiederholt)
-das Wort, die Wörter				word
-das Wörterbuch, die Wörterbücher		dictionary
-zum Beispiel					for example; for instance
---------------------------------------------------------------------------
-Alles klar!					All right!/Got it!
-die Anzeige, die Anzeigen			ad; advertisement
-der Aufzug, die Aufzüge				elevator; lift
-das Auto, die Autos				car; automobile
-das Brillenetui, die Brillenetuis		glasses case
-Einen Moment bitte.				One moment, please. 
-die Garage, die Garagen				garage
-das Haus, die Häuser				house
-heute						today
-das Internet					internet
-der Mieter, die Mieter				tenant; renter (male)
-die Mieterin, die Mieterinnen			tenant; renter (female)
-die Terrasse, die Terrassen			terrace
-die WG, die WGs					shared apartment; flatshare
-die Wohngemeinschaft, die Wohngemeinschaften	shared apartment; flatshare
-die Wohnung, die Wohnungen			apartment
-der Zettel, die Zettel				piece of paper
-das Zimmer, die Zimmer				room
-----------------------------------------------------------------------------
-alt						old
-anderer, andere, anderes			other; others
-billig						cheap; inexpensive
-billiger, am billigsten	
-da sein						to be there; to be present
-ist, war, ist gewesen	
-das Fahrrad, die Fahrräder			bicycle
-der Fahrradladen, die Fahrradläden		bicycle store
-gelb						yellow
-groß						big; tall
-klein						small
-kleiner, am kleinsten	
-etwas/jemanden lieben				to love something/somebody; to like something/somebody
-liebt, liebte, hat geliebt
-neu						new
-neuer, am neusten/am neuesten	
-rot						red
-teuer						expensive
-teurer, am teuersten
-das T-Shirt, die T-Shirts			t-shirt
-weiß						white
-------------------------------------------------------------------------------
-auf dem Land					in the country
-der Balkon, die Balkons				balcony; porch
-der Bekannte, die Bekannten			acquaintance (male)
-die Bekannte, die Bekannten			acquaintance (female)
-besser						better
-frei						free; open; here: unoccupied
-der Garten, die Gärten				garden
-die Heizung, die Heizungen			heating; heater
-(jemandem) helfen 				to help someone
-(hilft, half, hat geholfen)
-das Hochhaus, die Hochhäuser			high-rise building
-etwas hoffen					to hope something
-(hofft, hoffte, hat gehofft)
-das Hostel, die Hostels				hostel
-in der Stadt					in the city
-die Jugendherberge, die Jugendherbergen		youth hostel
-kaputt						broken
-(kaputter, am kaputtesten)
-das Kind, die Kinder				child
-können						to be able to; can
-(kann, konnte)
-leben						to live; to be alive
-(lebt, lebte, hat gelebt)
-meist						most of the time; usually
-die Miete, die Mieten				rent
-der Mitbewohner, die Mitbewohner		roommate; housemate; flatmate (male)
-die Mitbewohnerin, die Mitbewohnerinnen		roommate; housemate; flatmate (female)
-die Natur					nature
-nett						nice; friendly
-(netter, am nettesten)
-oft						often
-(öfter, am öftesten)	
-schnell						fast
-(schneller, am schnellsten)
-sich etwas teilen				to share
-(teilt, teilte, hat geteilt)
-um|ziehen					o move (house, cities, etc.)
-(zieht um, zog um, ist umgezogen)
-der Umzug, die Umzüge				move; relocation
-der Urlaub, die Urlaube				vacation; holiday
-etwas/jemanden verstehen			to understand something/someone
-(versteht, verstand, hat verstanden)
-viele						many
-vielleicht					perhaps; maybe
---------------------------------------------------------------------------------
-das Arbeitszimmer, die Arbeitszimmer		office; study
-das Bad, die Bäder				bathroom
-das Badezimmer, die Badezimmer			bathroom
-dunkel						dark
-(dunkler, am dunkelsten)
-Es gibt …					there are (literally: it gives, it exists)
-das Fenster, die Fenster			window
-der Flur, die Flure				hallway
-Freut mich					Pleased to meet you
-gemütlich					cozy; comfortable
-(gemütlicher, am gemütlichsten)
-hell						light; bright
-(heller, am hellsten)
-hoch						expensive
-(höher, am höchsten)
-der Interessent, die Interessenten		interested person; interested party; prospects (here: implies "potential" or "prospective") (male)
-die Interessentin, die Interessentinnen		interested person; interested party; prospects (here: implies "potential" or "prospective") (female)
-der Keller, die Keller				cellar; basement
-die Küche, die Küchen				kitchen
-kurz						short
-(kürzer, am kürzesten)
-lang						long
-(länger, am längsten)
-laut						loud/loudly
-(lauter, am lautesten)
-der Monat, die Monate				month
-die Pommes frites (Plural)			French fries
-der Quadratmeter, die Quadratmeter		square meter
-ruhig						quiet; calm
-(ruhiger, am ruhigsten)
-das Schlafzimmer, die Schlafzimmer		bedroom
-etwas/jemanden sehen				to see something/somebody
-(sieht, sah, hat gesehen)
-sitzen						to sit
-(sitzt, saß, hat gesessen)
-die Toilette, die Toiletten			toilet
-ungemütlich					uncomfortable; unpleasant; awkward
-(ungemütlicher, am ungemütlichsten)
-das Wohnzimmer, die Wohnzimmer			living room
------------------------------------------------------------------------------------
-arbeiten					to work
-(arbeitet, arbeitete, hat gearbeitet)
-bequem						comfortable
-bequemer, am bequemsten
-das Bett, die Betten				bed
-das Bild, die Bilder				picture
-das Bücherregal, die Bücherregale		bookcase; bookshelf
-der Bürostuhl, die Bürostühle			office chair
-die Couch, die Couches				couch
-der Fernseher, die Fernseher			television
-finden						to find
-(findet, fand, hat gefunden)
-die Gardine, die Gardinen			curtain; drapes
-der Herd, die Herde				stove
-das Kissen, die Kissen				cushion; pillow
-der Kleiderschrank, die Kleiderschränke		closet; wardrobe
-der Kühlschrank, die Kühlschränke		refrigerator; fridge; ice box
-die Lampe, die Lampen				lamp
-das Möbel, die Möbel				furniture
-der Nachttisch, die Nachttische			bedside table; nightstand
-das Regal, die Regale				(book) shelf; storage rack
-der Schrank, die Schränke			cabinet; wardrobe
-der Schreibtisch, die Schreibtische		desk
-der Schreibtischstuhl, die Schreibtischstühle	desk chair
-der Sessel, die Sessel				armchair; easy chair
-das Sofa, die Sofas				sofa; couch
-der Spiegel, die Spiegel			mirror
-spießig						bourgeois; square
-(spießiger, am spießigsten)
-die Spüle, die Spülen				kitchen sink
-stehen						to stand; to be
-(steht, stand, hat gestanden)
-die Stehlampe, die Stehlampen			floor lamp
-der Stuhl, die Stühle				chair
-der Teppich, die Teppiche			carpet
-der Tisch, die Tische				table
-unbequem					uncomfortable
-(unbequemer, am unbequemsten)
-die Waschmaschine, die Waschmaschinen		washer
-zu						too
------------------------------------------------------------------------------
-alle						all
-die Armbanduhr, die Armbanduhren		wristwatch
-bald						soon
-daneben						next to it/that
-dein(e)						your
-doch						On the contrary!
-dreckig						dirty
-(dreckiger, am dreckigsten)
-(sich) duschen					to shower; to take a shower
-duscht, duschte, hat geduscht
-euer/eure					your/yours
-der Föhn, die Föhne				hair dryer
-das Handtuch, die Handtücher			hand towel
-ihr(e)						her
-ihr(e)						their
-Ihr(e) (formell, Singular und Plural)		your (formal)
-immer						always
-das Kinderzimmer, die Kinderzimmer		child's room
-Komm rein!					come in
-Kommt drauf an.					That depends.
-mein(e)						my
-Möchtest du etwas trinken?			Would you like something to drink? (informal)
-der Nachbar, die Nachbarn			neighbor (male)
-die Nachbarin, die Nachbarinnen			neighbor (female)
-(etwas) putzen					to clean (something)
-(putzt, putzte, hat geputzt)
-sauber						clean
-(sauberer, am saubersten)
-schlafen					to sleep
-(schläft, schlief, hat geschlafen)
-sein(e)						his/its
-die Uhr, die Uhren				clock
-unser(e)					our
-die Unterhose, die Unterhosen			underwear; underpants
-warm						warm
-(wärmer, am wärmsten)
----------------------------------------------------------------------------
-der Arzt, die Ärzte				doctor (male)
-die Ärztin, die Ärztinnen			doctor (female)
-der Babysitter, die Babysitter			babysitter (male)
-die Babysitterin, die Babysitterinnen		babysitter (female)
-beginnen					to begin; to start
-(beginnt, begann, hat begonnen)
-bis						until
-Das geht nicht					That won't/doesn't work
-halb						half
-krank						sick; ill
-(kränker, am kränksten)
-die Lösung, die Lösungen			solution
-die Mittagspause, die Mittagspausen		lunch break
-morgen						tomorrow
-die Schule, die Schulen				school
-der Tag, die Tage				day
-der Termin, die Termine				appointment
-das Training, die Trainings			training; workout; (sports) practice
-Tut mir leid.					I'm sorry.
-um						at; around
-die Uni, die Unis				university; college
-das Volleyballtraining, die Volleyballtrainings	volleyball practice
-von						from
-wann						when
-Wie spät ist es?				How late is it?/What time is it?
-Wie viel Uhr ist es?				What time is it?
---------------------------------------------------------------------------------
-der Abend, die Abende				evening
-das Abendessen, die Abendessen			dinner
-am Morgen					in the morning
-jemanden an|rufen				to call someone
-(ruft an, rief an, hat angerufen)
-etwas auf|räumen				to clean up something; to tidy up something
-(räumt auf, räumte auf, hat aufgeräumt)
-auf|stehen					to get up
-(steht auf, stand auf, ist aufgestanden)
-aus|gehen					to go out
-(geht aus, ging aus, ist ausgegangen)
-etwas ein|kaufen				to buy/shop for something
-kauft ein, kaufte ein, hat eingekauft
-fast immer					almost always
-fern|sehen					to watch television
-sieht fern, sah fern, hat ferngesehen
-die Flöte, die Flöten				flute
-das Frühstück, die Frühstücke			breakfast
-frühstücken					to eat breakfast
-(frühstückt, frühstückte, hat gefrühstückt)
-das Gemüse					vegetables
-manchmal					sometimes
-meistens					most of the time
-der Mittag, die Mittage				noon; midday
-das Mittagessen, die Mittagessen		lunch
-der Morgen, die Morgen				morning
-das Müsli, die Müslis				granola
-der Nachmittag, die Nachmittage			afternoon
-die Nacht, die Nächte				night
-nie						never
-normalerweise					normally
-oft						often
-(öfter, am öftesten)
-selten						seldom
-(seltener, am seltensten)
-der Vormittag, die Vormittage			morning; before noon
-wichtig						important
-(wichtiger, am wichtigsten)
-wissen						to know
-(weiß, wusste, hat gewusst)
-Zähne putzen					to brush one's teeth
-(putzt, putzte, hat geputzt)
-----------------------------------------------------------------------------
-an|fangen					to start
-fängt an, fing an, hat angefangen
-auf|hören					to finish; to stop
-hört auf, hörte auf, hat aufgehört
-fertig						finished
-(der) Fußball					soccer
-gestern						yesterday
-glauben						to believe; to think
-glaubt, glaubte, hat geglaubt	
-kochen						to cook
-kocht, kochte, hat gekocht
-etwas korrigieren				to correct something
-korrigiert, korrigierte, hat korrigiert
-lange						long; for a long time
-(mit jemandem) mit|kommen			to come along with someone
-kommt mit, kam mit, ist mitgekommen
-etwas mit|schreiben				to take notes
-schreibt mit, schrieb mit, hat mitgeschrieben
-der Schüler, die Schüler			student; pupil (male)
-die Schülerin, die Schülerinnen			student; pupil (female)
-spät						late
-später, am spätesten
-die Übung, die Übungen				exercise
-der Unterricht					lesson
-etwas vor|bereiten				to prepare something
-bereitet vor, bereitete vor, hat vorbereitet
-jemandem etwas vor|lesen			to read something to somebody
-liest vor, las vor, hat vorgelesen
-(etwas) waschen					to wash (something)
-wäscht, wusch, hat gewaschen
-die Zeit					time
--------------------------------------------------------------------------
-am Wochenende					on the weekend
-aus|schlafen					to sleep in
-schläft aus, schlief aus, hat ausgeschlafen
-jemanden/etwas besuchen				to visit someone/something
-besucht, besuchte, hat besucht	
-danach						after that
-dann						then
-(etwas) denken					to think
-denkt, dachte, hat gedacht	
-draußen						outside
-drinnen						inside
-das Eis						ice cream
-Fahrrad fahren					to ride a bike
-fährt, fuhr, ist gefahren
-der Film, die Filme				movie; film
-früh						early
-früher, am frühesten/frühsten	
-Frühstück machen				to make breakfast
-macht, machte, hat gemacht	
-gehen						to go; to walk
-geht, ging, ist gegangen
-ins Bett gehen					to go to bed
-geht, ging, ist gegangen
-ins Kino gehen					to go to the movies
-geht, ging, ist gegangen	
-ins Theater gehen				to go to the theater
-geht, ging, ist gegangen
-Mir ist schlecht.				I don't feel well.
-nach draußen gehen				to go outside
-geht, ging, ist gegangen
-nach Hause gehen				to go home
-geht, ging, ist gegangen
-raus|gehen					to go out
-geht raus, ging raus, ist rausgegangen
-die Schokoladencreme, die Schokoladencremes	chocolate spread
-schwimmen					to swim
-schwimmt, schwamm, ist geschwommen
-das Tennis					tennis
-das Wochenende, die Wochenenden			weekend
-Zeit haben					to have time
-hat, hatte, hat gehabt	
-zuerst						first
-----------------------------------------------------------------------------------
-ab						from
-ab wann						from when (on)
-allein						alone
-am						on
-die Dreiviertelstunde, die Dreiviertelstunden	three-quarters of an hour; 45 minutes
-der Fisch, die Fische				fish
-geöffnet haben					to be open (as in: a store, business, etc.)
-hat, hatte, hat gehabt
-geschlossen haben				to be closed 
-hat, hatte, hat gehabt
-halbe Stunde					half an hour
-kurz nach					shortly after
-kurz vor					shortly before
-leider						unfortunately
-die Minute, die Minuten				minute
-das Mittagsangebot, die Mittagsangebote		lunch dish; lunch menu
-nach						after
-die Öffnungszeit, die Öffnungszeiten		opening hours; business hours
-die Roulade, die Rouladen			roulade; braised meat rolls
-die Stunde, die Stunden				hour
-die Suppe, die Suppen				soup
-die Viertelstunde, die Viertelstunden		quarter of an hour
-Viertel nach					quarter past
-Viertel vor					quarter to
-vor						before
-(auf jemanden/etwas) warten			to wait (for so./sth.)
-wartet, wartete, hat gewartet
-der Zug, die Züge				train
------------------------------------------------------------------------------
+auch				також
+das Beispiel, die Beispiele	приклад
+danke				дякую
+Es geht mir gut.		У мене все добре.
+Es ist 09:00 Uhr.		Зараз дев'ята ранку.
+Frau				пані (ввічл.)
+die Frau, die Frauen		жінка
+die Frau, die Frauendie Frau, die Frauen
+gut				добре
+besser, am besten	
+Herr				пан (ввічл.)	
+der Mann, die Männer		чоловік
+nicht				не (запереч.)
+nicht so gut			так собі
+oder				або
+schön				гарний; гарно
+schöner, am schönsten	
+sehr gut			дуже добре
+super				чудово
+Uhr				година
+Und dir?			А в тебе?
+Und Ihnen?			А у Вас?
+Wie geht es dir?		Як у тебе справи?
+Wie geht es Ihnen?		Як у Вас справи?		
+------------------------------------------------------------
+die Bank, die Banken		банк
+bitte				будь ласка	
+das Büro, die Büros		офіс
+der Bus, die Busse		автобус
+der Computer, die Computer	комп'ютер
+die E-Mail, die E-Mails		електронна пошта/мейл
+die Familie, die Familien	сім'я
+der Flughafen, die Flughäfen	аеропорт
+die Gitarre, die Gitarren	гітара
+das Hobby, die Hobbys		хобі
+das Hotel, die Hotels		готель
+die Information			довідкове бюро
+der Kaffee, die Kaffees		кава
+Kein Problem			Без проблем.
+das Kino, die Kinos		кіно
+das Konzert, die Konzerte	концерт
+die Kultur			культура
+das Museum, die Museen		музей
+die Musik			музика
+der Pilot, die Piloten		льотчик
+die Pilotin, die Pilotinnen	льотчиця
+die Pizza, die Pizzen		піца
+das Problem, die Probleme	проблема
+das Restaurant, die Restaurants	ресторан
+die Spaghetti (Plural)		спагеті
+der Sport			спорт
+der Student, die Studenten	студент
+die Studentin, die Studentinnen	студентка
+(etwas) studieren
+studiert, studierte, hat studiert	отримувати вищу освіту; вивчати
+der Supermarkt, die Supermärkte	супермаркет
+das Taxi, die Taxis		таксі
+das Telefon, die Telefone	телефон
+das Theater, die Theater	театр
+die Toilette, die Toiletten	туалет
+die Universität, die Universitäten	університет
+das Zentrum, die Zentren	центр	
+---------------------------------------------------------
+Gute Reise 			Щасливої дороги
+die Hilfe, die Hilfen		допомога
+Mach’s gut!			На все добре!
+die Tasche, die Taschen		сумка
+---------------------------------------------------------
+fliegen				летіти
+fliegt, flog, ist geflogen
+die Tante, die Tanten		тітка
+Wie schreibt man das?		Як це пишеться?
+@				Ett
+_				Unterstrich
+/	 			Schrägstrich
+\				umgekehrter Schrägstrich
+---------------------------------------------------------
+heißen				звати
+heißt, hieß, hat geheißen
+weg				геть; нема
+---------------------------------------------------------
+das Beispiel, die Beispiele	приклад
+Keine Ahnung.			Жодної гадки (не маю).
+der Taxifahrer, die Taxifahrer	таксист
+die Taxifahrerin, die Taxifahrerinnen	таксистка
+---------------------------------------------------------
+kommen				прийти
+kommt, kam, ist gekommen
+lernen				вивчати
+lernt, lernte, hat gelernt	
+machen				робити	
+macht, machte, hat gemacht
+sprechen			говорити; розмовляти
+spricht, sprach, hat gesprochen
+wohnen				жити; мешкати
+wohnt, wohnte, hat gewohnt
+---------------------------------------------------------
+Hier ist …			Це…
+der Pass, die Pässe		паспорт
+sein				бути
+ist, war, ist gewesen
 
-
-
-
+---------------------------------------------------------
+feiern				святкувати
+feiert, feierte, hat gefeiert
+Herzlichen Glückwunsch zum Geburtstag!
+---------------------------------------------------------
+antworten			відповідати
+antwortet, antwortete, hat geantwortet
+fragen				питати; запитувати
+fragt, fragte, hat gefragt
+etwas verlieren			щось загубити
+verliert, verlor, hat verloren
+wichtig				важливий		
+wichtiger, am wichtigsten
+---------------------------------------------------------
+fehlen				бракувати; бути відсутнім
+fehlt, fehlte, hat gefehlt
+etwas) schreiben		(щось) писати
+schreibt, schrieb, hat geschrieben
+mit jemandem telefonieren	з кимось розмовляти по телефону
+telefoniert, telefonierte, hat telefoniert
+Viel Glück!			Хай щастить!
+Wer ist da?			Хто там?
+Wie heißt die Straße?		Як називається вулиця?
+Mit wem spreche ich, bitte?	З ким я розмовляю?
+Wie war nochmal Ihr Name?	Як, ще раз, вас звати?
+---------------------------------------------------------
+das Amt, die Ämter		державна установа
+der Dialog, die Dialoge		діалог
+das Heimatland, 		батьківщина
+die Heimatländer
+der Wohnort, die Wohnorte	місце проживання	
+---------------------------------------------------------
+das Flugzeug, die Flugzeuge	літак
+gern				охоче
+lieber, am liebsten
+kaputt				зламаний; зламано
+kaputter, am kaputtesten
+schön				гарний; гарно
+schöner, am schönsten
+trinken				пити
+trinkt, trank, hat getrunken
+Wollen wir uns nicht duzen?	Може, перейдемо на «ти»?
+---------------------------------------------------------
 
 
 
