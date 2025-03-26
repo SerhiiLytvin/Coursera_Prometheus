@@ -143,6 +143,238 @@ trinken				пити
 trinkt, trank, hat getrunken
 Wollen wir uns nicht duzen?	Може, перейдемо на «ти»?
 ---------------------------------------------------------
+fragen				питати; запитувати
+fragt, fragte, hat gefragt
+kennen				знати; бути знайомим з
+kennt, kannte, hat gekannt
+lieber				охочіше
+nehmen				брати; узяти
+nimmt, nahm, hat genommen
+viel				багато	
+mehr, am meisten
+---------------------------------------------------------
+bestellen			замовляти
+bestellt, bestellte, hat bestellt
+der Durst			спрага
+essen				їсти
+isst, aß, hat gegessen
+gern				охоче
+lieber, am liebsten
+lieben				любити
+liebt, liebte, hat geliebt
+nehmen				брати; узяти
+nimmt, nahm, hat genommen	брати; узяти
+das Sushi			суші
+Sonst noch etwas?		Що-небудь ще?
+---------------------------------------------------------
+bezahlen			платити
+bezahlt, bezahlte, hat bezahlt
+Das macht …			Це коштує …
+Das macht zusammen …		Разом … (про суму)
+Das stimmt so.			Решти не треба.
+Du bist eingeladen!		Я тебе пригощаю!
+getrennt			окремо
+sagen				казати
+sagt, sagte, hat gesagt
+zahlen				платити
+zahlt, zahlte, hat gezahlt
+---------------------------------------------------------
+begrüßen			вітати
+begrüßt, begrüßte, hat begrüßt
+die Begrüßung, die Begrüßungen	привітання
+besichtigen			оглядати
+besichtigt, besichtigte, hat besichtigt
+fahren				їхати
+fährt, fuhr, ist gefahren
+kennen				знати; бути знайомим з
+kennt, kannte, hat gekannt
+noch nie			ще ніколи
+das Schloss, die Schlösser	палац; замок
+schon mal			уже раз
+die Sehenswürdigkeit, 		визначне/цікаве місце; пам'ятка
+die Sehenswürdigkeiten	
+spielen				грати (в щось)
+spielt, spielte, hat gespielt
+toll				чудово
+toller, am tollsten
+das Tor, die Tore		ворота; брама
+die Verabschiedung, 		прощання
+die Verabschiedungen
+---------------------------------------------------------
+gewinnen			вигравати
+gewinnt, gewann, hat gewonnen
+in der Nähe (von)		поблизу
+liegen				лежати; розташовуватися
+liegt, lag, hat gelegen
+der See, die Seen		озеро
+tanzen				танцювати
+tanzt, tanzte, hat getanzt
+---------------------------------------------------------
+Bei uns ...			У нас ...
+mögen				любити; вподобувати
+mag, mochte, hat gemocht	
+nächstes Jahr			наступного року
+singen				співати
+singt, sang, hat gesungen
+die Spezialität, die Spezialitäten	традиційна страва
+verschieden			різний
+verschiedener, am verschiedensten
+---------------------------------------------------------
+ie Aufenthaltserlaubnis, 	дозвіл на перебування
+die Aufenthaltserlaubnisse
+bleiben				залишатися
+bleibt, blieb, ist geblieben
+der Flüchtling, die Flüchtlinge	біженець
+die Fremdsprache, 		іноземна мова
+die Fremdsprachen
+die Muttersprache, 		рідна мова
+die Muttersprachen
+nördlich			північний; на північ від
+nördlicher, am nördlichsten
+östlich				східний; на схід від 
+östlicher, am östlichsten
+schlecht			поганий; погано
+schlechter, am schlechtesten
+schnell				швидкий; швидко
+schneller, am schnellsten
+sprechen			говорити; розмовляти
+spricht, sprach, hat gesprochen
+südlich				південний; на південь
+südlicher, am südlichsten
+westlich			західний; на захід від
+westlicher, am westlichsten
+---------------------------------------------------------
+der Bleistift, die Bleistifte	олівець
+der Notizblock, die Notizblöcke	записник; товстий зошит
+er Stift, die Stifte		ручка
+unterrichten			викладати; навчати
+unterrichtet, unterrichtete, hat unterrichtet
+---------------------------------------------------------
+der Kursteilnehmer, 		учасник курсу
+die Kursteilnehmer
+lernen				вивчати
+lernt, lernte, hat gelernt
+lesen				читати
+liest, las, hat gelesen
+die Nachricht, die Nachrichten	повідомлення
+der Ordner, die Ordner		папка
+der Satz, die Sätze		речення
+schreiben			писати
+schreibt, schrieb, hat geschrieben
+üben				тренувати
+übt, übte, hat geübt
+wiederholen			повторювати
+wiederholt, wiederholte, hat wiederholt
+das Wörterbuch, 		словник
+die Wörterbücher
+---------------------------------------------------------
+das Brillenetui, 		футляр для окулярів
+die Brillenetuis
+Einen Moment bitte.		Секунду, будь ласка.
+der Zettel, die Zettel		листок (паперу)
+---------------------------------------------------------
+billig				дешевий; дешево
+billiger, am billigsten
+da sein				бути тут; приходити
+ist, war, ist gewesen
+groß				великий
+größer, am größten
+klein				малий
+kleiner, am kleinsten
+lieben				любити; кохати
+liebt, liebte, hat geliebt
+neu				новий
+neuer, am neusten/am neuesten
+teuer				дорогий; дорого
+teurer, am teuersten
+---------------------------------------------------------
+auf dem Land			на селі
+helfen				допомагати
+hilft, half, hat geholfen
+das Hochhaus, die Hochhäuser	багатоповерхівка
+hoffen				сподіватися
+hofft, hoffte, hat gehofft
+die Jugendherberge, 		хостел (тип хостелів у Німеччині)
+die Jugendherbergen
+kaputt				зламаний; зламано
+kaputter, am kaputtesten
+können				могти
+kann, konnte
+leben				жити
+lebt, lebte, hat gelebt
+meist				здебільшого
+nett				милий; мило
+netter, am nettesten
+oft				часто
+öfter, am öftesten
+schnell				швидкий; швидко
+schneller, am schnellsten
+sich etwas teilen		спільно користуватися; ділитися
+teilt, teilte, hat geteilt
+um|ziehen			переїжджати
+zieht um, zog um, ist umgezogen
+der Umzug, die Umzüge		переїзд
+---------------------------------------------------------
+dunkel				темний; темно
+dunkler, am dunkelsten
+gemütlich			затишний; затишно
+gemütlicher, am gemütlichsten
+hell				ясний; ясно
+heller, am hellsten
+hoch				високий; високо
+höher, am höchsten
+kurz				короткий; коротко
+kürzer, am kürzesten
+lang				довгий; довго
+länger, am längsten
+laut				гучний; гучно
+lauter, am lautesten
+ruhig				спокійний; спокійно
+ruhiger, am ruhigsten
+jemanden sehen			бачити
+sieht, sah, hat gesehen
+sitzen				сидіти
+sitzt, saß, hat gesessen
+ungemütlich			незатишний; незатишно
+ungemütlicher, am ungemütlichsten
+---------------------------------------------------------
+arbeiten			працювати
+arbeitet, arbeitete, hat gearbeitet
+bequem				зручний; зручно
+bequemer, am bequemsten
+die Couch, die Couches		диван
+finden				вважати
+findet, fand, hat gefunden
+das Kissen, die Kissen		подушка
+das Möbel, die Möbel		меблі
+spießig				обивательський
+spießiger, am spießigsten	
+stehen				стояти
+steht, stand, hat gestanden
+unbequem			незручний; незручно
+unbequemer, am unbequemsten
+---------------------------------------------------------
+die Armbanduhr, die Armbanduhren	наручний годинник
+daneben					поруч
+dreckig					брудний; брудно
+dreckiger, am dreckigsten
+(sich) duschen				приймати душ
+duscht, duschte, hat geduscht
+der Föhn, die Föhne			фен для волосся
+das Handtuch, die Handtücher		рушник
+Komm rein!				Заходь!
+Kommt drauf an				залежить від; залежно від
+putzen
+putzt, putzte, hat geputzt		прибирати
+sauber					чистий; чисто
+sauberer, am saubersten
+schlafen				спати
+schläft, schlief, hat geschlafen
+die Uhr, die Uhren			годинник
+die Unterhose, die Unterhosen		труси
+warm					теплий; тепло
+wärmer, am wärmsten
+---------------------------------------------------------
 
 
 

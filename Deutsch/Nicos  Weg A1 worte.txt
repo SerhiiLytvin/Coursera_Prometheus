@@ -125,6 +125,7 @@ das stimmt so сдачи не надо
 bekommen получить, схватить
 das Trinkgeld чаевые
 einladen пригласить
+eingeladen [ˈaingəlaːdn] зва́ный
 vielleicht возможно, может быть
 letzt последний,   прошлый
 gehen weg уходить, уезжать
@@ -843,9 +844,8 @@ fleißig [ˈflaisɪç] трудолюби́вый, работя́щий, при�
 hart [hart] твёрдо, си́льно, стро́го, категори́чески, жёстко, суро́во
 funktionieren [fʊŋktsioˈniːrən] функциони́ровать, идти́ (рабо́тать, де́йствовать - о маши́не)
 reparieren [repaˈriːrən] испра́вить, отремонти́ровать, почини́ть
-Bremse1 [ˈbrεmzə] f (~, ~n) то́рмоз
+Bremse [ˈbrεmzə] f (~, ~n) то́рмоз
 hinten [ˈhɪntn] позади́
-Fahrrad [ˈfaːɐraːt] n (~es, -ä-er) велосипе́д
 auskennen знать
 Kennst du dich mit Fahrrädern aus?  Ты разбираешься в велосипедах? 
 hupen [ˈhuːpn] труби́ть, гуде́ть, дава́ть сигна́л
